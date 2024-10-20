@@ -1,6 +1,7 @@
 # Smart Car Assistant
 ## Demo
 
+The audio from the system output is feable in the demo as the screen recording is taking the microphone input.
 
 https://github.com/user-attachments/assets/fea26899-a872-4965-a581-f552308accdd
 
