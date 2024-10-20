@@ -1,4 +1,3 @@
-# smart_car_assistant
 # Smart Car Assistant
 
 ## Overview
