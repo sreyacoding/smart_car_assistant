@@ -92,7 +92,12 @@ streamlit run streamlit_with_drowsiness_detection.py
 
 2. **Dataset Title** - Pashupati Gupta, 2020. https://www.kaggle.com/datasets/pashupatigupta/emotion-detection-from-text/data
 
-3. **Audio clips** - 
+3. **Audio clips** - https://hitstreet.net/mp3-eminem-lose-yourself-2/
+                     https://hitstreet.net/mp3-imagine-dragons-demons-1/
+                     https://hitstreet.net/mp3-walk-the-moon-shut-up-and-dance-2/
+                     https://thegospeljingle.com/mp3-audio/john-legend-all-of-me/
+                     https://trendybeatz.com/download-mp3/13625/adele-someone-like-you
+                     https://mp3oops.fun/download/tom-cochrane-life-is-a-highway.html
   
 4. **Additional Resource** - -GOKULAPPADURAI, 2024. https://github.com/K-GOKULAPPADURAI/Driver-Drowsiness-Detection-Alert-System-using-Python
 -mohamed abdelmohsen, 2022. https://www.kaggle.com/code/mohamedabdelmohsen/emotion-analysis-and-classification-using-lstm-93
