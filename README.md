@@ -3,6 +3,7 @@
 ## Overview
 
 The Smart Car Assistant is an innovative application designed to enhance the driving experience by integrating voice recognition, emotion detection, drowsiness detection, and personalized music recommendations. This project utilizes a multimodal approach, leveraging modern AI techniques to create an interactive and engaging assistant for drivers.
+![WhatsApp Image 2024-10-20 at 6 05 34 AM](https://github.com/user-attachments/assets/b882c228-c2ba-4c16-9965-aeeb7c403f8d)
 
 ## Architecture
 
