@@ -75,7 +75,7 @@ Ensure you have the `final_model.pkl` file in your project directory.
 
 Execute the following command in your terminal:
 
-```bash
+
 streamlit run streamlit_with_drowsiness_detection.py
 
 ## Usage
@@ -84,4 +84,18 @@ streamlit run streamlit_with_drowsiness_detection.py
 - Use the **Suggest Music** button to prompt the assistant to ask about your feelings and receive music recommendations based on your emotional state.
 - The system will continuously monitor for drowsiness, alerting the driver if signs of fatigue are detected.
 - Use the **Stop Conversation** and **Stop Music** buttons to halt speech output and music playback, respectively.
+
+
+## References
+
+1. **THE FUTURE OF VOICE ASSISTANTS IN CARS: CURRENT GAPS AND OPPORTUNITIES TO ENHANCE USER EXPERIENCE ** - Ashlesha Vishnu Kadam , 2023. DOI:10.33564/IJEAST.2023.v08i06.004 , https://www.researchgate.net/publication/376265358_THE_FUTURE_OF_VOICE_ASSISTANTS_IN_CARS_CURRENT_GAPS_AND_OPPORTUNITIES_TO_ENHANCE_USER_EXPERIENCE
+
+2. **Dataset Title** - Pashupati Gupta, 2020. https://www.kaggle.com/datasets/pashupatigupta/emotion-detection-from-text/data
+
+3. **Audio clips** - 
+  
+4. **Additional Resource** - -GOKULAPPADURAI, 2024. https://github.com/K-GOKULAPPADURAI/Driver-Drowsiness-Detection-Alert-System-using-Python
+-mohamed abdelmohsen, 2022. https://www.kaggle.com/code/mohamedabdelmohsen/emotion-analysis-and-classification-using-lstm-93
+
+5. **Documentation** - Python documentation. https://pypi.org/
 
