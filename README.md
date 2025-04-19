@@ -88,7 +88,7 @@ streamlit run streamlit_with_drowsiness_detection.py
 
 ## References
 
-1. **THE FUTURE OF VOICE ASSISTANTS IN CARS: CURRENT GAPS AND OPPORTUNITIES TO ENHANCE USER EXPERIENCE ** - Ashlesha Vishnu Kadam , 2023. DOI:10.33564/IJEAST.2023.v08i06.004 , https://www.researchgate.net/publication/376265358_THE_FUTURE_OF_VOICE_ASSISTANTS_IN_CARS_CURRENT_GAPS_AND_OPPORTUNITIES_TO_ENHANCE_USER_EXPERIENCE
+1. **THE FUTURE OF VOICE ASSISTANTS IN CARS: CURRENT GAPS AND OPPORTUNITIES TO ENHANCE USER EXPERIENCE** - Ashlesha Vishnu Kadam , 2023. DOI:10.33564/IJEAST.2023.v08i06.004 , https://www.researchgate.net/publication/376265358_THE_FUTURE_OF_VOICE_ASSISTANTS_IN_CARS_CURRENT_GAPS_AND_OPPORTUNITIES_TO_ENHANCE_USER_EXPERIENCE
 
 2. **Dataset Title** - Pashupati Gupta, 2020. https://www.kaggle.com/datasets/pashupatigupta/emotion-detection-from-text/data
 
